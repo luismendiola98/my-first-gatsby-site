@@ -15,5 +15,14 @@
   padding-right: 2rem;
 }
 .nav-link-text {
-  color: black;
+  color: rgb(0, 190, 253);
+}
+.nav-link-text:hover {
+  color: rgb(0, 111, 151);
+}
+.site-title {
+  font-size: 3rem;
+  color: gray;
+  font-weight: bolder;
+  margin: 3rem 0;
 }
